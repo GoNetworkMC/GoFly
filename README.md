@@ -1,7 +1,8 @@
-# ExOITC
-a random one in the chamber spigot plugin
-# Todo
-- [ ] re structure
-- [ ] menu update
-- [ ] ffa
-- [ ] ...
+# GoFly
+fly plugin
+# Command
+| command         | description   | permission       |
+|-----------------|---------------|------------------|
+| `/fly`          | toggle fly    | `gofly.fly`      |
+| `/fly reload`   | reload config | `gofly.reload`   |
+| `/fly setlobby` | set lobby     | `gofly.setlobby` |
