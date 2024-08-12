@@ -1,0 +1,7 @@
+name: GoFly
+version: 0.1
+author: Redth
+main: me.redth.gofly.GoFly
+
+commands:
+  fly:

@@ -1,0 +1,8 @@
+lobby-radius: 200
+prefix: "&a飛行 &8> "
+lobby-set: "&a大廳已設定!"
+enabled: "&a你可以飛了!"
+disabled: "&c你不能飛了!"
+not-in-lobby: "&c你不能飛出大廳!"
+reload: "&a設定已重載!"
+no-permission: "&c你沒有權限!"
